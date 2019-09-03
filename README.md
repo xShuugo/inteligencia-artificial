@@ -1,4 +1,4 @@
 # Inteligencia Artificial 
-<br>
+<br><hr>
 Contenido del curso - 2019-ll
 
